@@ -1,0 +1,19 @@
+.abcd{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgba(22, 41, 244, 0.902);
+} 
+.abcd1{
+    padding-bottom: 10px;
+    color: rgba(248, 169, 228, 0.902);
+} 
+.achievement-logo {
+    width: 50px; /* Adjust the width as needed */
+    height: 50px; /* Adjust the height as needed */
+    margin-right: 10px; /* Optional: Add margin for spacing between image and text */
+}
+/* .navbar-brand{
+    padding-bottom: 10px;
+
+} */

@@ -1,0 +1,30 @@
+.main-image {
+    width: 1600px;
+    height: 800px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+.container{
+    margin-bottom: 30px;
+}
+.abc{
+    text-align: center;
+}
+.col{
+    display: flex;
+    align-items: center;
+    padding-bottom: 10px;
+}
+.abcd{
+    text-align: center;
+    
+    color: rgba(22, 41, 244, 0.902);
+} 
+.card-img-top{
+    width: 16rem;
+    height: 14rem;
+    border-radius: 5px;
+}
+.container-lg{
+    margin-bottom: 10px;
+}
